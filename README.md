@@ -1,7 +1,7 @@
  ## Appointment Manager: Lady Lash
 
  ## Description:
- Lady Lash is a small business runned by only one person. All the appointment's booking, cancellations and price negotiations are handled via Instagram, which leads to late replies, doble bookings, upset customers and cancellations. Our app is intended to solve all these problems.
+ Lady Lash is a small business run by only one person. All the appointments, booking, cancellations, and price negotiations are handled via Instagram, which leads to late replies, double bookings, upset customers, and cancellations. Our app is intended to solve all these problems.
 
  ## Table of Contents
 - [Installation](#Installation)
@@ -28,6 +28,6 @@
  ![licenses](https://img.shields.io/badge/License-MIT-green.svg "License Badge")
 
  ## Questions
- Please contact me:
+ Please contact:
  ceyda_hergul@hotmail.com | jlarrazabal_1988@yahoo.com | elcinkoyuncu@gmail.com | marlysco94@gmail.com | jlarrazabal | marlysco | chergul | ElcinKoyuncu 
  
